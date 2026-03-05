@@ -3,6 +3,8 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/79d06f78-bdaa-4ec8-8bd7-d33ad1c37209" />    
 
+<img width="2541" height="1074" alt="image" src="https://github.com/user-attachments/assets/8436404d-467a-40a9-baae-9b8a6cc4e689" />    
+
 A continuación tienes un ejemplo académico completo de una Calculadora en Java (consola) desarrollada en IntelliJ IDEA con persistencia en Oracle 19c .
 
 La arquitectura es sencilla pero correcta para proyectos universitarios.
